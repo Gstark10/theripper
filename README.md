@@ -1,4 +1,3 @@
-# Sanity Amazona
 
 ## Lessons
 
