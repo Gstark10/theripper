@@ -103,8 +103,8 @@
     1. create search screen
     2. implement search filters
     3. list products
-24. Publish on Vercel
-    1. create vercel account
+24. Publish on Netlify
+    1. create netlify account
     2. connect it to gitub
-    3. add vercel domain to allow origin in sanity
+    3. add netlify domain to allow origin in sanity
     4. publish result
